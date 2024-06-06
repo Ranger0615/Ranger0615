@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ranger0615
 - 👀 I’m interested in robotics
-- 🌱 I’m currently learning hot to program a robot
+- 🌱 I’m currently learning how to program a robot
 - 💞️ I’m looking to collaborate on nun
 - 📫 How to reach me idk
 - 😄 Pronouns: im a dude
